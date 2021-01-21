@@ -1,23 +1,25 @@
-## First Name Last Name
+## Logan Zorrilla
 
-### Term Year 
+### SP 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Calculus 1
 
-- Course 2
+- Entreprenuial Oppurtunity Analysis
 
-- Course 3
+- Data Science
 
-- Course 4
+- Intro to Programming
+
+- Law and Policy
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Anything related to or about sports
 
-- Thing 2
+- Tech and Video Games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Thing 3 as shown in this website <https://en.wikipedia.org/wiki/Film>
